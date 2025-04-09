@@ -1,2 +1,3 @@
 # FitBharat
-An Indian Diet Plan App for  everyone
+
+Simple Indian diet planner with Hindi + English UI.
